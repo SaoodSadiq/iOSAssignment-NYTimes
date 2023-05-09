@@ -1,0 +1,405 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "520A6F38-867E-492C-81B8-5A5E0B0AE13E"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "E11D0A5E-BBDD-43BA-BE4F-B8D8BFADCDCB"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "iOSAssignment/LandingViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "30"
+            endingLineNumber = "30"
+            landmarkName = "getPopularNYTimesNews(period:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "E11D0A5E-BBDD-43BA-BE4F-B8D8BFADCDCB - 74c122574a69b88f"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "iOSAssignment.LandingViewModel.getPopularNYTimesNews() -&gt; ()"
+                  moduleName = "iOSAssignment"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/muhammadsadiq/Documents/Assignment/iOSAssignment/iOSAssignment/LandingViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "29"
+                  endingLineNumber = "29"
+                  offsetFromSymbolStart = "96">
+               </Location>
+               <Location
+                  uuid = "E11D0A5E-BBDD-43BA-BE4F-B8D8BFADCDCB - 3079a2decee18138"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (iOSAssignment.Result&lt;iOSAssignment.NYArticle&gt;) -&gt; () in iOSAssignment.LandingViewModel.getPopularNYTimesNews() -&gt; ()"
+                  moduleName = "iOSAssignment"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/muhammadsadiq/Documents/Assignment/iOSAssignment/iOSAssignment/LandingViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "29"
+                  endingLineNumber = "29"
+                  offsetFromSymbolStart = "208">
+               </Location>
+               <Location
+                  uuid = "E11D0A5E-BBDD-43BA-BE4F-B8D8BFADCDCB - f8f0043f6c7f3e2e"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Swift.MainActor () -&gt; () in closure #1 (iOSAssignment.Result&lt;iOSAssignment.NYArticle&gt;) -&gt; () in iOSAssignment.LandingViewModel.getPopularNYTimesNews() -&gt; ()"
+                  moduleName = "iOSAssignment"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/muhammadsadiq/Documents/Assignment/iOSAssignment/iOSAssignment/LandingViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "29"
+                  endingLineNumber = "29"
+                  offsetFromSymbolStart = "52">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "61FDB5B7-B644-497D-871D-6ABD2649311D"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "iOSAssignment/LandingViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "32"
+            endingLineNumber = "32"
+            landmarkName = "getPopularNYTimesNews(period:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "6DCB6A2D-CB3E-4471-9AEA-F0C8C4B2046C"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "iOSAssignment/LandingViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "31"
+            endingLineNumber = "31"
+            landmarkName = "getPopularNYTimesNews(period:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "6DCB6A2D-CB3E-4471-9AEA-F0C8C4B2046C - 3079a2decee1811b"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (iOSAssignment.Result&lt;iOSAssignment.NYArticle&gt;) -&gt; () in iOSAssignment.LandingViewModel.getPopularNYTimesNews() -&gt; ()"
+                  moduleName = "iOSAssignment"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/muhammadsadiq/Documents/Assignment/iOSAssignment/iOSAssignment/LandingViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "30"
+                  endingLineNumber = "30"
+                  offsetFromSymbolStart = "216">
+               </Location>
+               <Location
+                  uuid = "6DCB6A2D-CB3E-4471-9AEA-F0C8C4B2046C - f8f0043f6c7f3e2e"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Swift.MainActor () -&gt; () in closure #1 (iOSAssignment.Result&lt;iOSAssignment.NYArticle&gt;) -&gt; () in iOSAssignment.LandingViewModel.getPopularNYTimesNews() -&gt; ()"
+                  moduleName = "iOSAssignment"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/muhammadsadiq/Documents/Assignment/iOSAssignment/iOSAssignment/LandingViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "29"
+                  endingLineNumber = "29"
+                  offsetFromSymbolStart = "52">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "4CD8B939-89C0-4AF8-A77F-26F765E41208"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "iOSAssignment/Networking/NYTimes/NYTimesApiClient.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "36"
+            endingLineNumber = "36"
+            landmarkName = "getPopularArticle(period:type:completion:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "4CD8B939-89C0-4AF8-A77F-26F765E41208 - 5b30f32d1e8983bf"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "iOSAssignment.NYTimesApiClient.getPopularArticle&lt;&#x3c4;_0_0 where &#x3c4;_0_0: Swift.Decodable&gt;(period: Swift.String, type: &#x3c4;_0_0.Type, completion: (iOSAssignment.Result&lt;&#x3c4;_0_0&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "iOSAssignment"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/muhammadsadiq/Documents/Assignment/iOSAssignment/iOSAssignment/Networking/NYTimes/NYTimesApiClient.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "36"
+                  endingLineNumber = "36"
+                  offsetFromSymbolStart = "368">
+               </Location>
+               <Location
+                  uuid = "4CD8B939-89C0-4AF8-A77F-26F765E41208 - 2113a4fffbcb27af"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (iOSAssignment.Result&lt;&#x3c4;_0_0&gt;) -&gt; () in iOSAssignment.NYTimesApiClient.getPopularArticle&lt;&#x3c4;_0_0 where &#x3c4;_0_0: Swift.Decodable&gt;(period: Swift.String, type: &#x3c4;_0_0.Type, completion: (iOSAssignment.Result&lt;&#x3c4;_0_0&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "iOSAssignment"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/muhammadsadiq/Documents/Assignment/iOSAssignment/iOSAssignment/Networking/NYTimes/NYTimesApiClient.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "37"
+                  endingLineNumber = "37"
+                  offsetFromSymbolStart = "64">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "EAD82956-CB21-46EB-92CD-45CADA10CFE1"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "iOSAssignment/Networking/NYTimes/NYTimesApiClient.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "37"
+            endingLineNumber = "37"
+            landmarkName = "getPopularArticle(period:type:completion:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "0621A33C-B2A0-4077-9685-29CF032ED789"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "iOSAssignment/Networking/BaseNetworkApi.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "58"
+            endingLineNumber = "58"
+            landmarkName = "networkRequest(with:objectType:completion:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "372C1142-7A93-44B6-A988-89B11E5D5289"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "iOSAssignment/Networking/BaseNetworkApi.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "67"
+            endingLineNumber = "67"
+            landmarkName = "networkRequest(with:objectType:completion:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "5E471A15-BF19-4067-A4F6-25C73482BFE7"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "iOSAssignment/Networking/NYTimes/NYTimesApiClient.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "35"
+            endingLineNumber = "35"
+            landmarkName = "getPopularArticle(period:type:completion:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "5E471A15-BF19-4067-A4F6-25C73482BFE7 - 5b30f32d1e8983bf"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "iOSAssignment.NYTimesApiClient.getPopularArticle&lt;&#x3c4;_0_0 where &#x3c4;_0_0: Swift.Decodable&gt;(period: Swift.String, type: &#x3c4;_0_0.Type, completion: (iOSAssignment.Result&lt;&#x3c4;_0_0&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "iOSAssignment"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/muhammadsadiq/Documents/Assignment/iOSAssignment/iOSAssignment/Networking/NYTimes/NYTimesApiClient.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "36"
+                  endingLineNumber = "36"
+                  offsetFromSymbolStart = "368">
+               </Location>
+               <Location
+                  uuid = "5E471A15-BF19-4067-A4F6-25C73482BFE7 - 2113a4fffbcb27af"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (iOSAssignment.Result&lt;&#x3c4;_0_0&gt;) -&gt; () in iOSAssignment.NYTimesApiClient.getPopularArticle&lt;&#x3c4;_0_0 where &#x3c4;_0_0: Swift.Decodable&gt;(period: Swift.String, type: &#x3c4;_0_0.Type, completion: (iOSAssignment.Result&lt;&#x3c4;_0_0&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "iOSAssignment"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/muhammadsadiq/Documents/Assignment/iOSAssignment/iOSAssignment/Networking/NYTimes/NYTimesApiClient.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "37"
+                  endingLineNumber = "37"
+                  offsetFromSymbolStart = "64">
+               </Location>
+               <Location
+                  uuid = "5E471A15-BF19-4067-A4F6-25C73482BFE7 - 5017f51041ab0d3b"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "iOSAssignmentTests.NYTimesApiClient.getPopularArticle&lt;&#x3c4;_0_0 where &#x3c4;_0_0: Swift.Decodable&gt;(period: Swift.String, type: &#x3c4;_0_0.Type, completion: (iOSAssignmentTests.Result&lt;&#x3c4;_0_0&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "iOSAssignmentTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/muhammadsadiq/Documents/Assignment/iOSAssignment/iOSAssignment/Networking/NYTimes/NYTimesApiClient.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "36"
+                  endingLineNumber = "36"
+                  offsetFromSymbolStart = "368">
+               </Location>
+               <Location
+                  uuid = "5E471A15-BF19-4067-A4F6-25C73482BFE7 - 7953a9b3c3e54403"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (iOSAssignmentTests.Result&lt;&#x3c4;_0_0&gt;) -&gt; () in iOSAssignmentTests.NYTimesApiClient.getPopularArticle&lt;&#x3c4;_0_0 where &#x3c4;_0_0: Swift.Decodable&gt;(period: Swift.String, type: &#x3c4;_0_0.Type, completion: (iOSAssignmentTests.Result&lt;&#x3c4;_0_0&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "iOSAssignmentTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/muhammadsadiq/Documents/Assignment/iOSAssignment/iOSAssignment/Networking/NYTimes/NYTimesApiClient.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "37"
+                  endingLineNumber = "37"
+                  offsetFromSymbolStart = "64">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "71512A6D-41E4-4740-BE58-99EDACCB1364"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "iOSAssignment/LandingViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "29"
+            endingLineNumber = "29"
+            landmarkName = "getPopularNYTimesNews(period:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "71512A6D-41E4-4740-BE58-99EDACCB1364 - 27e7a9235d93fc8b"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "iOSAssignment.LandingViewModel.getPopularNYTimesNews(period: Swift.String) -&gt; ()"
+                  moduleName = "iOSAssignment"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/muhammadsadiq/Documents/Assignment/iOSAssignment/iOSAssignment/LandingViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "28"
+                  endingLineNumber = "28"
+                  offsetFromSymbolStart = "92">
+               </Location>
+               <Location
+                  uuid = "71512A6D-41E4-4740-BE58-99EDACCB1364 - df4aac0829cfb3db"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "iOSAssignmentTests.LandingViewModel.getPopularNYTimesNews(period: Swift.String) -&gt; ()"
+                  moduleName = "iOSAssignmentTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/muhammadsadiq/Documents/Assignment/iOSAssignment/iOSAssignment/LandingViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "28"
+                  endingLineNumber = "28"
+                  offsetFromSymbolStart = "92">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "F64C0825-8A9C-40A6-8FD9-601C22181C08"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "iOSAssignment/LandingView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "33"
+            endingLineNumber = "33"
+            landmarkName = "body"
+            landmarkType = "24">
+            <Locations>
+               <Location
+                  uuid = "F64C0825-8A9C-40A6-8FD9-601C22181C08 - d4e0acf3f0e34e98"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #2 (Swift.String) -&gt; () in closure #1 () -&gt; SwiftUI.TupleView&lt;(&lt;&lt;opaque return type of SwiftUI.View.onChange&lt;&#x3c4;_0_0 where &#x3c4;_1_0: Swift.Equatable&gt;(of: &#x3c4;_1_0, perform: (&#x3c4;_1_0) -&gt; ()) -&gt; some&gt;&gt;.0, &lt;&lt;opaque return type of SwiftUI.View.navigationBarTitleDisplayMode(SwiftUI.NavigationBarItem.TitleDisplayMode) -&gt; some&gt;&gt;.0)&gt; in closure #1 () -&gt; SwiftUI.VStack&lt;SwiftUI.TupleView&lt;(&lt;&lt;opaque return type of SwiftUI.View.onChange&lt;&#x3c4;_0_0 where &#x3c4;_1_0: Swift.Equatable&gt;(of: &#x3c4;_1_0, perform: (&#x3c4;_1_0) -&gt; ()) -&gt; some&gt;&gt;.0, &lt;&lt;opaque return type of SwiftUI.View.navigationBarTitleDisplayMode(SwiftUI.NavigationBarItem.TitleDisplayMode) -&gt; some&gt;&gt;.0)&gt;&gt; in closure #1 () -&gt; SwiftUI.TupleView&lt;(SwiftUI.NavigationView&lt;SwiftUI.VStack&lt;SwiftUI.TupleView&lt;(&lt;&lt;opaque return type of SwiftUI.View.onChange&lt;&#x3c4;_0_0 where &#x3c4;_1_0: Swift.Equatable&gt;(of: &#x3c4;_1_0, perform: (&#x3c4;_1_0) -&gt; ()) -&gt; some&gt;&gt;.0, &lt;&lt;opaque return type of SwiftUI.View.navigationBarTitleDisplayMode(SwiftUI.NavigationBarItem.TitleDisplayMode) -&gt; some&gt;&gt;.0)&gt;&gt;&gt;, Swift.Optional&lt;&lt;&lt;opaque return type of SwiftUI.View.progressViewStyle&lt;&#x3c4;_0_0 where &#x3c4;_1_0: SwiftUI.ProgressViewStyle&gt;(&#x3c4;_1_0) -&gt; some&gt;&gt;.0&gt;, Swift.Optional&lt;&lt;&lt;opaque return type of SwiftUI.View.alert&lt;&#x3c4;_0_0, &#x3c4;_0_1 where &#x3c4;_1_0: Swift.StringProtocol, &#x3c4;_1_1: SwiftUI.View&gt;(_: &#x3c4;_1_0, isPresented: SwiftUI.Binding&lt;Swift.Bool&gt;, actions: () -&gt; &#x3c4;_1_1) -&gt; some&gt;&gt;.0&gt;)&gt; in iOSAssignment.LandingView.body.getter : some"
+                  moduleName = "iOSAssignment"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/muhammadsadiq/Documents/Assignment/iOSAssignment/iOSAssignment/LandingView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "33"
+                  endingLineNumber = "33"
+                  offsetFromSymbolStart = "64">
+               </Location>
+               <Location
+                  uuid = "F64C0825-8A9C-40A6-8FD9-601C22181C08 - c0a63cf20beb7ec2"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #2 (Swift.String) -&gt; () in closure #1 () -&gt; SwiftUI.TupleView&lt;(&lt;&lt;opaque return type of SwiftUI.View.onChange&lt;&#x3c4;_0_0 where &#x3c4;_1_0: Swift.Equatable&gt;(of: &#x3c4;_1_0, perform: (&#x3c4;_1_0) -&gt; ()) -&gt; some&gt;&gt;.0, &lt;&lt;opaque return type of SwiftUI.View.navigationBarTitleDisplayMode(SwiftUI.NavigationBarItem.TitleDisplayMode) -&gt; some&gt;&gt;.0)&gt; in closure #1 () -&gt; SwiftUI.VStack&lt;SwiftUI.TupleView&lt;(&lt;&lt;opaque return type of SwiftUI.View.onChange&lt;&#x3c4;_0_0 where &#x3c4;_1_0: Swift.Equatable&gt;(of: &#x3c4;_1_0, perform: (&#x3c4;_1_0) -&gt; ()) -&gt; some&gt;&gt;.0, &lt;&lt;opaque return type of SwiftUI.View.navigationBarTitleDisplayMode(SwiftUI.NavigationBarItem.TitleDisplayMode) -&gt; some&gt;&gt;.0)&gt;&gt; in closure #1 () -&gt; SwiftUI.TupleView&lt;(SwiftUI.NavigationView&lt;SwiftUI.VStack&lt;SwiftUI.TupleView&lt;(&lt;&lt;opaque return type of SwiftUI.View.onChange&lt;&#x3c4;_0_0 where &#x3c4;_1_0: Swift.Equatable&gt;(of: &#x3c4;_1_0, perform: (&#x3c4;_1_0) -&gt; ()) -&gt; some&gt;&gt;.0, &lt;&lt;opaque return type of SwiftUI.View.navigationBarTitleDisplayMode(SwiftUI.NavigationBarItem.TitleDisplayMode) -&gt; some&gt;&gt;.0)&gt;&gt;&gt;, Swift.Optional&lt;&lt;&lt;opaque return type of SwiftUI.View.progressViewStyle&lt;&#x3c4;_0_0 where &#x3c4;_1_0: SwiftUI.ProgressViewStyle&gt;(&#x3c4;_1_0) -&gt; some&gt;&gt;.0&gt;, Swift.Optional&lt;&lt;&lt;opaque return type of SwiftUI.View.alert&lt;&#x3c4;_0_0, &#x3c4;_0_1 where &#x3c4;_1_0: Swift.StringProtocol, &#x3c4;_1_1: SwiftUI.View&gt;(_: &#x3c4;_1_0, isPresented: SwiftUI.Binding&lt;Swift.Bool&gt;, actions: () -&gt; &#x3c4;_1_1) -&gt; some&gt;&gt;.0&gt;)&gt; in iOSAssignmentTests.LandingView.body.getter : some"
+                  moduleName = "iOSAssignmentTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/muhammadsadiq/Documents/Assignment/iOSAssignment/iOSAssignment/LandingView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "33"
+                  endingLineNumber = "33"
+                  offsetFromSymbolStart = "64">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
