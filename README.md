@@ -1,8 +1,5 @@
 # iOSAssignment-NYTimes
 
-# iOSAssignment
-
-
 ### Download Project and run application via command + R
 
 # NY Times Most Popular Articles
