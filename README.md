@@ -1,8 +1,8 @@
-# iOSAssignment-NYTimes
+## iOSAssignment-NYTimes
 
 ### Download Project and run application via command + R
 
-# NY Times Most Popular Articles
+### NY Times Most Popular Articles
 
 ### Code base written in Swift and SwiftUI
 ### API integration of NY Times Most Popular Articles 
